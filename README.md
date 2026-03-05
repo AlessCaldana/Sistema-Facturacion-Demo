@@ -315,3 +315,9 @@ Este sistema está diseñado para ser intuitivo y eficiente. Si sigues esta guí
 - Para operar el sistema, siempre entrar por:
   - `http://localhost/sistema-facturacion-demo/`
 - No editar archivos dentro de `backend/`, `tools/` o `security/` sin soporte tecnico.
+
+- ## 👨‍💻 Desarrollador
+**Alessandro Caldana**
+- 💼 [LinkedIn]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/alessandro-caldana-3978b11b5/))
+- 📧 alessandroca73@gmail.com
+- 🐙 +57 3156166433

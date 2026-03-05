@@ -1,0 +1,10 @@
+RewriteEngine On
+
+# Si el archivo o carpeta existe, servir normal
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Compatibilidad: /archivo.php -> route.php?file=archivo.php
+RewriteRule ^([A-Za-z0-9_-]+\.php)$ route.php?file=$1 [L,QSA,NC]
+

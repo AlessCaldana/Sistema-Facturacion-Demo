@@ -1,0 +1,4 @@
+backend/conexion.php
+*.pdf
+facturas_pdf/
+qrcodes/

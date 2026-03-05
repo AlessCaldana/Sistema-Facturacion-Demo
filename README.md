@@ -317,7 +317,8 @@ Este sistema está diseñado para ser intuitivo y eficiente. Si sigues esta guí
 - No editar archivos dentro de `backend/`, `tools/` o `security/` sin soporte tecnico.
 
 - ## 👨‍💻 Desarrollador
+## 👨‍💻 Desarrollador
 **Alessandro Caldana**
-- 💼 [LinkedIn]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/alessandro-caldana-3978b11b5/))
-- 📧 alessandroca73@gmail.com
-- 🐙 +57 3156166433
+
+ [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573156166433)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-caldana-3978b11b5/)

@@ -316,7 +316,6 @@ Este sistema está diseñado para ser intuitivo y eficiente. Si sigues esta guí
   - `http://localhost/sistema-facturacion-demo/`
 - No editar archivos dentro de `backend/`, `tools/` o `security/` sin soporte tecnico.
 
-- ## 👨‍💻 Desarrollador
 ## 👨‍💻 Desarrollador
 **Alessandro Caldana**
 
